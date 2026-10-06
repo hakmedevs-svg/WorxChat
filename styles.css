@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="WorxChat - منصة دردشة موثوقة ومشفرة ومتكاملة مع واتساب، بتصميم احترافي وواجهة أنيقة."
+    />
+    <title>WorxChat | دردشة آمنة ومتكاملة</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="topbar">
+        <div class="container nav">
+          <div class="brand">
+            <div class="brand-mark">W</div>
+            <span>WorxChat</span>
+          </div>
+
+          <nav class="nav-menu" aria-label="القائمة الرئيسية">
+            <a href="#features">المزايا</a>
+            <a href="#why">لماذا WorxChat؟</a>
+            <a href="#faq">الأسئلة الشائعة</a>
+            <a href="#contact">تواصل</a>
+          </nav>
+
+          <a class="btn btn-outline" href="https://t.me/hhyr10" target="_blank" rel="noreferrer">
+            تواصل الآن
+          </a>
+        </div>
+      </header>
+
+      <main>
+        <section class="hero">
+          <div class="container hero-inner">
+            <div class="hero-copy">
+              <div class="pill">دردشة موثوقة • مشفرة • متكاملة</div>
+              <h1>WorxChat</h1>
+              <p>
+                منصة دردشة احترافية تجمع بين الأمان العالي، التفاعل السريع، والتكامل مع واتساب
+                لتجربة اتصال سلسة بين الأشخاص والمنشآت.
+              </p>
+
+              <div class="cta-row">
+                <a class="btn btn-primary" href="#features">اكتشف المزايا</a>
+                <a class="btn btn-secondary" href="#contact">احصل على الدعم</a>
+              </div>
+
+              <ul class="mini-stats">
+                <li><strong>24/7</strong><span>دعم فني</span></li>
+                <li><strong>256-bit</strong><span>تشفير</span></li>
+                <li><strong>99.9%</strong><span>استقرار</span></li>
+              </ul>
+            </div>
+
+            <div class="hero-visual" aria-label="واجهة دردشة WorxChat">
+              <div class="chat-window">
+                <div class="chat-header">
+                  <div class="avatar">W</div>
+                  <div>
+                    <strong>WorxChat</strong>
+                    <small>متصل الآن</small>
+                  </div>
+                </div>
+
+                <div class="messages">
+                  <div class="message incoming">
+                    السلام عليكم، كيف يمكنني استخدام النظام اليوم؟
+                  </div>
+                  <div class="message outgoing">
+                    مرحباً، قُم بإرسال الرسالة مباشرة، وكل شيء آمن ومشفر.
+                  </div>
+                  <div class="message incoming">
+                    رائع! هل يدعم التكامل مع واتساب؟
+                  </div>
+                </div>
+
+                <div class="composer">
+                  <span>اكتب رسالتك...</span>
+                  <button>إرسال</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="features" id="features">
+          <div class="container">
+            <div class="section-heading">
+              <span class="eyebrow">المزايا</span>
+              <h2>كل ما تحتاجه في منصة دردشة واحدة</h2>
+            </div>
+
+            <div class="feature-grid">
+              <article class="feature-card">
+                <div class="icon">🔒</div>
+                <h3>تشفير متقدم</h3>
+                <p>تقنيات حماية متقدمة لضمان سرية المحادثات وحفظ بيانات المستخدمين بأمان.</p>
+              </article>
+
+              <article class="feature-card">
+                <div class="icon">📱</div>
+                <h3>تكامل واتساب</h3>
+                <p>ربط سهل وسريع مع واتساب لتوسيع نطاق التواصل وزيادة وصول المستخدمين.</p>
+              </article>
+
+              <article class="feature-card">
+                <div class="icon">⚡</div>
+                <h3>سرعة فائقة</h3>
+                <p>واجهة مباشرة وسريعة تستجيب في الوقت الفعلي دون تأخير أو تعقيد.</p>
+              </article>
+
+              <article class="feature-card">
+                <div class="icon">🧠</div>
+                <h3>ذكاء في التصميم</h3>
+                <p>تجربة مستخدم أنيقة ومريحة مع تنسيق مرن ومتجاوب مع كل الأجهزة.</p>
+              </article>
+
+              <article class="feature-card">
+                <div class="icon">📊</div>
+                <h3>لوحات إحصائية</h3>
+                <p>تتبع النشاط والمحادثات والنتائج بشكل واضح ومنظم في واجهة سهلة القراءة.</p>
+              </article>
+
+              <article class="feature-card">
+                <div class="icon">🤝</div>
+                <h3>دعم احترافي</h3>
+                <p>فريق دعم جاهز لتقديم المساعدة، الاستفسارات، والتواصل مع العملاء بسرعة.</p>
+              </article>
+            </div>
+          </div>
+        </section>
+
+        <section class="why" id="why">
+          <div class="container two-col">
+            <div class="content-block">
+              <span class="eyebrow">لماذا WorxChat؟</span>
+              <h2>منصة مصممة للثقة، السرعة، والاحترافية</h2>
+              <p>
+                تم تصميم WorxChat ليكون منصة حديثة تجمع بين سهولة الاستخدام والمرونة في
+                الأداء، مع تركيز قوي على الخصوصية، التواصل الفوري، وتحقيق احتياجات المستخدمين
+                في بيئة رقمية متطورة.
+              </p>
+
+              <ul class="check-list">
+                <li>واجهة احترافية ومريحة بصرياً</li>
+                <li>تجربة مستخدم متكاملة على الهاتف والكمبيوتر</li>
+                <li>إعدادات آمنة ومرنة لتحقيق الراحة</li>
+                <li>قابلية للتوسع مع احتياجات المشروع</li>
+              </ul>
+            </div>
+
+            <div class="stats-panel">
+              <div class="stat-box">
+                <span class="stat-number">10K+</span>
+                <span class="stat-label">رسائل يومياً</span>
+              </div>
+              <div class="stat-box">
+                <span class="stat-number">120+</span>
+                <span class="stat-label">مستخدم نشط</span>
+              </div>
+              <div class="stat-box">
+                <span class="stat-number">4.9/5</span>
+                <span class="stat-label">تقييم المستخدمين</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="faq" id="faq">
+          <div class="container">
+            <div class="section-heading narrow">
+              <span class="eyebrow">الأسئلة الشائعة</span>
+              <h2>الإجابات السريعة</h2>
+            </div>
+
+            <div class="faq-list">
+              <details open>
+                <summary>هل WorxChat آمن؟</summary>
+                <p>نعم، النظام تم تصميمه مع أولويات الأمان والخصوصية، ويعتمد على مستويات حماية مناسبة للرسائل والبيانات.</p>
+              </details>
+
+              <details>
+                <summary>هل يدعم التكامل مع واتساب؟</summary>
+                <p>نعم، من أهداف المشروع دعم التواصل مع واتساب وتوسيع أنماط التفاعل عبر القنوات المتاحة.</p>
+              </details>
+
+              <details>
+                <summary>هل الواجهة مناسبة للموبايل؟</summary>
+                <p>بالتأكيد، التصميم متجاوب بالكامل ويعمل بشكل ممتاز على الهاتف والتابلت وسطح المكتب.</p>
+              </details>
+
+              <details>
+                <summary>هل يمكن تخصيص الواجهة؟</summary>
+                <p>نعم، القالب قابل للتخصيص بسهولة بحسب هوية المشروع أو العلامة التجارية المراد تمثيلها.</p>
+              </details>
+            </div>
+          </div>
+        </section>
+
+        <section class="cta-block" id="contact">
+          <div class="container cta-box">
+            <div>
+              <span class="eyebrow">تواصل مباشرة</span>
+              <h2>هل لديك فكرة أو مشروع تريد تنفيذه؟</h2>
+            </div>
+            <div class="cta-actions">
+              <a href="https://t.me/hhyr10" class="btn btn-primary" target="_blank" rel="noreferrer">
+                تواصل عبر Telegram
+              </a>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <footer class="site-footer">
+        <div class="container footer-inner">
+          <div class="footer-brand">
+            <div class="brand-mark small">W</div>
+            <span>WorxChat</span>
+          </div>
+
+          <div class="footer-meta">
+            <p>© 2026 جميع الحقوق محفوظة لـ Hakmedev</p>
+            <a href="https://t.me/hhyr10" target="_blank" rel="noreferrer">@hhyr10</a>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
+
+
+

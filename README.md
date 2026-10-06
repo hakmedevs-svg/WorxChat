@@ -1,2 +1,29 @@
 # WorxChat
-WorxChat - An encrypted end-to-end messaging platform with WhatsApp integration, exclusive design, and comprehensive features for seamless two-way conversations.
+
+WorxChat هو منصة دردشة متقدمة تدعم التشفير، الاتصال السريع، والتكامل مع واتساب لتجربة اتصال آمنة واحترافية.
+
+## الوصف
+- واجهة حديثة وجذابة
+- دعم دردشة ثنائية الاتجاه
+- أمان متعدد الطبقات
+- قسم الأسئلة الشائعة
+- رابط التواصل مع المطور
+
+## التشغيل
+افتح ملف `index.html` مباشرة في المتصفح، أو استخدم خادم محلي بسيط مثل:
+
+```bash
+python3 -m http.server 8000
+```
+ثم افتح الرابط:
+
+```text
+http://localhost:8000
+```
+
+## حقوق المطور
+- المطور: Hakmedev
+- تواصل: @hhyr10
+
+## اللوجو
+يتم تنفيذ الواجهة الحالية باستخدام HTML وCSS وJavaScript مع تصميم احترافي ومناسب لعرض المنتج.
